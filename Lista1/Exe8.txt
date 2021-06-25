@@ -1,0 +1,9 @@
+using System;
+
+class MainClass {
+  public static void Main (string[] args) {
+    Console.WriteLine("Digite a temperatura em Kelvin");
+		double x = Convert.ToDouble(Console.ReadLine());
+		Console.WriteLine("A temperatura em  Celsius é " + (x-273.15));
+  }
+}

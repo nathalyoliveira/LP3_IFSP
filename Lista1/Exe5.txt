@@ -1,0 +1,9 @@
+using System;
+
+class MainClass {
+  public static void Main (string[] args) {
+    Console.WriteLine("Digite um número real");
+		double x = Convert.ToDouble(Console.ReadLine());
+		Console.WriteLine("A quinta parte de " + x + " é = " +(x/5));
+  }
+}

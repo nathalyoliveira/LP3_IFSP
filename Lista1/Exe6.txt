@@ -1,0 +1,9 @@
+using System;
+
+class MainClass {
+  public static void Main (string[] args) {
+    Console.WriteLine("Digite a temperatura em Celsius");
+		double x = Convert.ToDouble(Console.ReadLine());
+		Console.WriteLine("A temperatura em  Fahrenheit é " + (x * (9.0/5.0) + 32.0));
+  }
+}
