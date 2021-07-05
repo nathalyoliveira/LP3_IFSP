@@ -1,0 +1,15 @@
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe4\obj\Debug\net5.0\Exe4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe4\obj\Debug\net5.0\Exe4.AssemblyInfoInputs.cache
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe4\obj\Debug\net5.0\Exe4.AssemblyInfo.cs
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe4\obj\Debug\net5.0\Exe4.csproj.CoreCompileInputs.cache
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe4\bin\Debug\net5.0\Exe4.exe
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe4\bin\Debug\net5.0\Exe4.deps.json
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe4\bin\Debug\net5.0\Exe4.runtimeconfig.json
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe4\bin\Debug\net5.0\Exe4.runtimeconfig.dev.json
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe4\bin\Debug\net5.0\Exe4.dll
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe4\bin\Debug\net5.0\ref\Exe4.dll
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe4\bin\Debug\net5.0\Exe4.pdb
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe4\obj\Debug\net5.0\Exe4.dll
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe4\obj\Debug\net5.0\ref\Exe4.dll
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe4\obj\Debug\net5.0\Exe4.pdb
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe4\obj\Debug\net5.0\Exe4.genruntimeconfig.cache

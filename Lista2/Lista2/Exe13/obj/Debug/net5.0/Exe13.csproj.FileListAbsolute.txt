@@ -1,0 +1,15 @@
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe13\bin\Debug\net5.0\Exe13.exe
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe13\bin\Debug\net5.0\Exe13.deps.json
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe13\bin\Debug\net5.0\Exe13.runtimeconfig.json
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe13\bin\Debug\net5.0\Exe13.runtimeconfig.dev.json
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe13\bin\Debug\net5.0\Exe13.dll
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe13\bin\Debug\net5.0\ref\Exe13.dll
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe13\bin\Debug\net5.0\Exe13.pdb
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe13\obj\Debug\net5.0\Exe13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe13\obj\Debug\net5.0\Exe13.AssemblyInfoInputs.cache
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe13\obj\Debug\net5.0\Exe13.AssemblyInfo.cs
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe13\obj\Debug\net5.0\Exe13.csproj.CoreCompileInputs.cache
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe13\obj\Debug\net5.0\Exe13.dll
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe13\obj\Debug\net5.0\ref\Exe13.dll
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe13\obj\Debug\net5.0\Exe13.pdb
+D:\Documentos\Meus projetos\LP3_IFSP\Lista2\Lista6\Exe13\obj\Debug\net5.0\Exe13.genruntimeconfig.cache
