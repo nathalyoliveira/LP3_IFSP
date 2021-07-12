@@ -1,0 +1,15 @@
+C:\Users\Nathy\source\repos\Lista3\Exe5\obj\Debug\net5.0\Exe5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathy\source\repos\Lista3\Exe5\obj\Debug\net5.0\Exe5.AssemblyInfoInputs.cache
+C:\Users\Nathy\source\repos\Lista3\Exe5\obj\Debug\net5.0\Exe5.AssemblyInfo.cs
+C:\Users\Nathy\source\repos\Lista3\Exe5\obj\Debug\net5.0\Exe5.csproj.CoreCompileInputs.cache
+C:\Users\Nathy\source\repos\Lista3\Exe5\bin\Debug\net5.0\Exe5.exe
+C:\Users\Nathy\source\repos\Lista3\Exe5\bin\Debug\net5.0\Exe5.deps.json
+C:\Users\Nathy\source\repos\Lista3\Exe5\bin\Debug\net5.0\Exe5.runtimeconfig.json
+C:\Users\Nathy\source\repos\Lista3\Exe5\bin\Debug\net5.0\Exe5.runtimeconfig.dev.json
+C:\Users\Nathy\source\repos\Lista3\Exe5\bin\Debug\net5.0\Exe5.dll
+C:\Users\Nathy\source\repos\Lista3\Exe5\bin\Debug\net5.0\ref\Exe5.dll
+C:\Users\Nathy\source\repos\Lista3\Exe5\bin\Debug\net5.0\Exe5.pdb
+C:\Users\Nathy\source\repos\Lista3\Exe5\obj\Debug\net5.0\Exe5.dll
+C:\Users\Nathy\source\repos\Lista3\Exe5\obj\Debug\net5.0\ref\Exe5.dll
+C:\Users\Nathy\source\repos\Lista3\Exe5\obj\Debug\net5.0\Exe5.pdb
+C:\Users\Nathy\source\repos\Lista3\Exe5\obj\Debug\net5.0\Exe5.genruntimeconfig.cache

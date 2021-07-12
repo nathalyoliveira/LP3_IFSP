@@ -1,0 +1,16 @@
+C:\Users\Nathy\source\repos\Lista3\Exe6\obj\Debug\net5.0\Exe6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathy\source\repos\Lista3\Exe6\obj\Debug\net5.0\Exe6.AssemblyInfoInputs.cache
+C:\Users\Nathy\source\repos\Lista3\Exe6\obj\Debug\net5.0\Exe6.AssemblyInfo.cs
+C:\Users\Nathy\source\repos\Lista3\Exe6\obj\Debug\net5.0\Exe6.csproj.CoreCompileInputs.cache
+C:\Users\Nathy\source\repos\Lista3\Exe6\bin\Debug\net5.0\Exe6.exe
+C:\Users\Nathy\source\repos\Lista3\Exe6\bin\Debug\net5.0\Exe6.deps.json
+C:\Users\Nathy\source\repos\Lista3\Exe6\bin\Debug\net5.0\Exe6.runtimeconfig.json
+C:\Users\Nathy\source\repos\Lista3\Exe6\bin\Debug\net5.0\Exe6.runtimeconfig.dev.json
+C:\Users\Nathy\source\repos\Lista3\Exe6\bin\Debug\net5.0\Exe6.dll
+C:\Users\Nathy\source\repos\Lista3\Exe6\bin\Debug\net5.0\ref\Exe6.dll
+C:\Users\Nathy\source\repos\Lista3\Exe6\bin\Debug\net5.0\Exe6.pdb
+C:\Users\Nathy\source\repos\Lista3\Exe6\obj\Debug\net5.0\Exe6.csproj.AssemblyReference.cache
+C:\Users\Nathy\source\repos\Lista3\Exe6\obj\Debug\net5.0\Exe6.dll
+C:\Users\Nathy\source\repos\Lista3\Exe6\obj\Debug\net5.0\ref\Exe6.dll
+C:\Users\Nathy\source\repos\Lista3\Exe6\obj\Debug\net5.0\Exe6.pdb
+C:\Users\Nathy\source\repos\Lista3\Exe6\obj\Debug\net5.0\Exe6.genruntimeconfig.cache
