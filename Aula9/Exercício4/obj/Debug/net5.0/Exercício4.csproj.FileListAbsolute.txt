@@ -1,0 +1,16 @@
+C:\Users\Nathy\source\repos\Aula9\Exercício4\bin\Debug\net5.0\Exercício4.exe
+C:\Users\Nathy\source\repos\Aula9\Exercício4\bin\Debug\net5.0\Exercício4.deps.json
+C:\Users\Nathy\source\repos\Aula9\Exercício4\bin\Debug\net5.0\Exercício4.runtimeconfig.json
+C:\Users\Nathy\source\repos\Aula9\Exercício4\bin\Debug\net5.0\Exercício4.runtimeconfig.dev.json
+C:\Users\Nathy\source\repos\Aula9\Exercício4\bin\Debug\net5.0\Exercício4.dll
+C:\Users\Nathy\source\repos\Aula9\Exercício4\bin\Debug\net5.0\ref\Exercício4.dll
+C:\Users\Nathy\source\repos\Aula9\Exercício4\bin\Debug\net5.0\Exercício4.pdb
+C:\Users\Nathy\source\repos\Aula9\Exercício4\obj\Debug\net5.0\Exercício4.csproj.AssemblyReference.cache
+C:\Users\Nathy\source\repos\Aula9\Exercício4\obj\Debug\net5.0\Exercício4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathy\source\repos\Aula9\Exercício4\obj\Debug\net5.0\Exercício4.AssemblyInfoInputs.cache
+C:\Users\Nathy\source\repos\Aula9\Exercício4\obj\Debug\net5.0\Exercício4.AssemblyInfo.cs
+C:\Users\Nathy\source\repos\Aula9\Exercício4\obj\Debug\net5.0\Exercício4.csproj.CoreCompileInputs.cache
+C:\Users\Nathy\source\repos\Aula9\Exercício4\obj\Debug\net5.0\Exercício4.dll
+C:\Users\Nathy\source\repos\Aula9\Exercício4\obj\Debug\net5.0\ref\Exercício4.dll
+C:\Users\Nathy\source\repos\Aula9\Exercício4\obj\Debug\net5.0\Exercício4.pdb
+C:\Users\Nathy\source\repos\Aula9\Exercício4\obj\Debug\net5.0\Exercício4.genruntimeconfig.cache

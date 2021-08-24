@@ -1,0 +1,15 @@
+C:\Users\Nathy\source\repos\Aula9\Exercício4_2\bin\Debug\net5.0\Exercício4_2.exe
+C:\Users\Nathy\source\repos\Aula9\Exercício4_2\bin\Debug\net5.0\Exercício4_2.deps.json
+C:\Users\Nathy\source\repos\Aula9\Exercício4_2\bin\Debug\net5.0\Exercício4_2.runtimeconfig.json
+C:\Users\Nathy\source\repos\Aula9\Exercício4_2\bin\Debug\net5.0\Exercício4_2.runtimeconfig.dev.json
+C:\Users\Nathy\source\repos\Aula9\Exercício4_2\bin\Debug\net5.0\Exercício4_2.dll
+C:\Users\Nathy\source\repos\Aula9\Exercício4_2\bin\Debug\net5.0\ref\Exercício4_2.dll
+C:\Users\Nathy\source\repos\Aula9\Exercício4_2\bin\Debug\net5.0\Exercício4_2.pdb
+C:\Users\Nathy\source\repos\Aula9\Exercício4_2\obj\Debug\net5.0\Exercício4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathy\source\repos\Aula9\Exercício4_2\obj\Debug\net5.0\Exercício4_2.AssemblyInfoInputs.cache
+C:\Users\Nathy\source\repos\Aula9\Exercício4_2\obj\Debug\net5.0\Exercício4_2.AssemblyInfo.cs
+C:\Users\Nathy\source\repos\Aula9\Exercício4_2\obj\Debug\net5.0\Exercício4_2.csproj.CoreCompileInputs.cache
+C:\Users\Nathy\source\repos\Aula9\Exercício4_2\obj\Debug\net5.0\Exercício4_2.dll
+C:\Users\Nathy\source\repos\Aula9\Exercício4_2\obj\Debug\net5.0\ref\Exercício4_2.dll
+C:\Users\Nathy\source\repos\Aula9\Exercício4_2\obj\Debug\net5.0\Exercício4_2.pdb
+C:\Users\Nathy\source\repos\Aula9\Exercício4_2\obj\Debug\net5.0\Exercício4_2.genruntimeconfig.cache
